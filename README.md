@@ -1,7 +1,6 @@
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=allenxuxu&show_icons=true&icon_color=805AD5&text_color=718096&bg_color=ffffff" />
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=lovelyyoshino&show_icons=true&icon_color=805AD5&text_color=718096&bg_color=ffffff" />
 
-### Hello, I'm 马培立 👋  ｜ 🏠个人博客：[Hermit_Rabbit
-](https://blog.csdn.net/lovely_yoshino)
+### Hello, I'm 马培立 👋  ｜ 🏠个人博客：[Hermit_Rabbit](https://blog.csdn.net/lovely_yoshino)
 
 <!--
 **lovelyyoshino/lovelyyoshino** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
