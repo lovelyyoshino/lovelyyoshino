@@ -2,6 +2,14 @@
 
 ### Hello, I'm 马培立 👋  ｜ 🏠个人博客：[Hermit_Rabbit](https://blog.csdn.net/lovely_yoshino)
 
+🌱 I’m currently learning deeplearing on robotics
+👯 Ask me about gmail <u> mpl9725440@gmail.com </u>
+
+- 提供一键更换host的上网方式：[Shadowsocks-Hosts-or-V2ray](https://github.com/lovelyyoshino/Shadowsocks-Hosts-or-V2ray)
+- bilibili的API抓包：[Bilibili-Live-API](https://github.com/lovelyyoshino/Bilibili-Live-API)
+- bilibili挂机助手：[bilibili-live-tools](https://github.com/Dawnnnnnn/bilibili-live-tools)
+- 海康威视视频流UI制作：[WaterCompetition_HK](https://github.com/lovelyyoshino/WaterCompetition_HK)
+- Halcon基础函数示例：[Halcon_Project](https://github.com/lovelyyoshino/Halcon_Project)
 <!--
 **lovelyyoshino/lovelyyoshino** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
