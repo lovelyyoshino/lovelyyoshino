@@ -1,6 +1,6 @@
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=lovelyyoshino&show_icons=true&icon_color=805AD5&text_color=718096&bg_color=ffffff" />
 
-### Hello, I'm 马培立 👋  ｜ 🏠个人博客：[Hermit_Rabbit](https://blog.csdn.net/lovely_yoshino)
+### Hello, I'm Ma Peili 👋  ｜ 🏠个人博客：[Hermit_Rabbit](https://blog.csdn.net/lovely_yoshino)
 
 🌱 I’m currently learning deeplearing on robotics
 
