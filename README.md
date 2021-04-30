@@ -2,7 +2,7 @@
 
 ### Hello, I'm Ma Peili 👋  ｜ 🏠个人博客：[Hermit_Rabbit](https://blog.csdn.net/lovely_yoshino)
 
-🌱 I’m currently learning deeplearing on robotics
+🌱 I’m currently learning deeplearning on robotics
 
 👯 Ask me about gmail <u> mpl9725440@gmail.com </u>
 
