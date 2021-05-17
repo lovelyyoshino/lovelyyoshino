@@ -1,8 +1,12 @@
 ### Hello, I'm Ma Peili 👋  ｜ 🏠个人博客：[Hermit_Rabbit](https://blog.csdn.net/lovely_yoshino)
 
-🌱 I’m currently learning deeplearning on robotics
+<img align="right" alt="GIF" width="250px" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
+
+🌱 I’m currently learning deeplearning on robotics;
+
 💼 major in computer science and robotics;
-👯 Ask me about gmail <u> mpl9725440@gmail.com </u>
+
+👯 Ask me about gmail <u> mpl9725440@gmail.com </u>;
 
 - 提供一键更换host的上网方式：[Shadowsocks-Hosts-or-V2ray](https://github.com/lovelyyoshino/Shadowsocks-Hosts-or-V2ray)
 - bilibili的API抓包：[Bilibili-Live-API](https://github.com/lovelyyoshino/Bilibili-Live-API)
