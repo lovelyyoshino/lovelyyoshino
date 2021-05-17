@@ -15,7 +15,7 @@
 - Halcon基础函数示例：[Halcon_Project](https://github.com/lovelyyoshino/Halcon_Project)
 
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=lovelyyoshino&show_icons=true&icon_color=805AD5&text_color=718096&bg_color=ffffff" />
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lovelyyoshino&show_icons=true&layout=compact&theme=vue"/>
+<img align="right"  width="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lovelyyoshino&show_icons=true&layout=compact&theme=vue"/>
 <!--
 **lovelyyoshino/lovelyyoshino** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
