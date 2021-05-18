@@ -6,7 +6,7 @@
 
 💼 major in computer science and robotics;
 
-👯 Ask me about gmail <u> mpl9725440@gmail.com </u>;
+👯 Ask me about gmail <u>mpl9725440@gmail.com</u>;
 
 - 提供一键更换host的上网方式：[Shadowsocks-Hosts-or-V2ray](https://github.com/lovelyyoshino/Shadowsocks-Hosts-or-V2ray)
 - 基于深度学习的垃圾分类机器人：[SmartCar](https://github.com/lovelyyoshino/SmartCar)
