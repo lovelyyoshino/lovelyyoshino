@@ -13,6 +13,7 @@
 - bilibili挂机助手：[bilibili-live-tools](https://github.com/Dawnnnnnn/bilibili-live-tools)
 - 海康威视视频流UI制作：[WaterCompetition_HK](https://github.com/lovelyyoshino/WaterCompetition_HK)
 - Halcon基础函数示例：[Halcon_Project](https://github.com/lovelyyoshino/Halcon_Project)
+- 基于深度学习的垃圾分类机器人：[SmartCar](https://github.com/lovelyyoshino/SmartCar)
 
 <img align="left" height="160px" src="https://github-readme-stats.vercel.app/api?username=lovelyyoshino&show_icons=true&icon_color=805AD5&text_color=718096&bg_color=ffffff" />
 <img align="right"  height="160px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lovelyyoshino&show_icons=true&layout=compact&theme=vue"/>
