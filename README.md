@@ -8,12 +8,14 @@
 
 👯 Ask me about gmail <u>mpl9725440@gmail.com</u>;
 
+- Fast-LIO2代码分析与注释:[FAST_LIO2_Noted](https://github.com/lovelyyoshino/FAST_LIO2_Noted)
 - 基于深度学习的垃圾分类机器人：[SmartCar](https://github.com/lovelyyoshino/SmartCar)
 - bilibili的API抓包解析：[Bilibili-Live-API](https://github.com/lovelyyoshino/Bilibili-Live-API)
 - bilibili活动：[bilibili-live-tools](https://github.com/Dawnnnnnn/bilibili-live-tools)
 - 一键切换host文件：[Shadowsocks-Hosts-or-V2ray](https://github.com/lovelyyoshino/Shadowsocks-Hosts-or-V2ray)
 - 海康威视视频流UI制作：[WaterCompetition_HK](https://github.com/lovelyyoshino/WaterCompetition_HK)
 - Halcon图像处理：[Halcon_Project](https://github.com/lovelyyoshino/Halcon_Project)
+
 
 
 <img align="left" height="160px" src="https://github-readme-stats.vercel.app/api?username=lovelyyoshino&show_icons=true&theme=dracula" />
