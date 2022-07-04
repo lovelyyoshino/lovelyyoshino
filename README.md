@@ -24,7 +24,7 @@
 <img src="https://github-profile-trophy.vercel.app/?username=lovelyyoshino&theme=flat&column=7" alt="logo" height="160" align="middle" style="margin: auto; margin-bottom: 22px;" />
 
 <img align="left" height="160px" src="https://stats.justsong.cn/api/csdn?id=lovely_yoshino" />
-<img align="left" height="160px" src="https://activity-graph.herokuapp.com/graph?username=lovelyyoshino&theme=xcode" />
+<img align="right" height="160px" src="https://activity-graph.herokuapp.com/graph?username=lovelyyoshino&theme=xcode" />
 
 
 <!--
