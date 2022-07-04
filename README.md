@@ -23,6 +23,10 @@
 
 <img src="https://github-profile-trophy.vercel.app/?username=lovelyyoshino&theme=flat&column=7" alt="logo" height="160" align="middle" style="margin: auto; margin-bottom: 22px;" />
 
+<img align="left" height="160px" src="https://stats.justsong.cn/api/csdn?id=weixin_50915462">
+<img align="right" height="160px" src="https://cdn.jsdelivr.net/gh/lovelyyoshino/lovelyyoshino/base_metrics.svg">
+
+
 <!--
 **lovelyyoshino/lovelyyoshino** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
