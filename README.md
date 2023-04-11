@@ -8,6 +8,7 @@
 
 👯 Ask me about gmail <u>mpl9725440@gmail.com</u>;
 
+- 从ROS1到ROS2无人机编程实战指南：[ROS-ROS2-BOOKS](https://github.com/lovelyyoshino/ROS-ROS2-BOOKS)
 - Fast-LIO2代码分析与注释：[FAST_LIO2_Noted](https://github.com/lovelyyoshino/FAST_LIO2_Noted)
 - 基于深度学习的垃圾分类机器人：[SmartCar](https://github.com/lovelyyoshino/SmartCar)
 - bilibili的API抓包解析：[Bilibili-Live-API](https://github.com/lovelyyoshino/Bilibili-Live-API)
