@@ -9,6 +9,7 @@
 👯 Ask me about gmail <u>mpl9725440@gmail.com</u>;
 
 - 从ROS1到ROS2无人机编程实战指南：[ROS-ROS2-BOOKS](https://github.com/lovelyyoshino/ROS-ROS2-BOOKS)
+- 轻量化道路裂缝分割算法：[RHACrackNet](https://github.com/lovelyyoshino/RHACrackNet)
 - Fast-LIO2代码分析与注释：[FAST_LIO2_Noted](https://github.com/lovelyyoshino/FAST_LIO2_Noted)
 - DLIO代码分析与注释：[direct_lidar_inertial_odometry-noted](https://github.com/lovelyyoshino/direct_lidar_inertial_odometry-noted)
 - 基于深度学习的垃圾分类机器人：[SmartCar](https://github.com/lovelyyoshino/SmartCar)
