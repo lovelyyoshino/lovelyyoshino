@@ -1,12 +1,19 @@
 ### Hello, I'm Ma Peili 👋  ｜ 🏠个人博客：[敢敢のwings](https://blog.csdn.net/lovely_yoshino?spm=1010.2135.3001.5343)
 
+<div align="center">
+
+![header](https://capsule-render.vercel.app/api?type=waving&color=FFB6C1&fontColor=FFFFFF&height=300&section=header&text=lovely_yoshino&fontSize=90)
+
 <img align="right" alt="GIF" width="250px" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
 
-🌱 I’m currently learning deep learning and SLAM on robotics;
+🌱 I’m currently learning deep learning、embodied_AI and SLAM on robotics;
 
 💼 major in computer science and robotics;
 
 👯 Ask me about gmail <u>mpl9725440@gmail.com</u>;
+
+
+## 😊 Major projects 😊
 
 - 从ROS1到ROS2无人机编程实战指南：[ROS-ROS2-BOOKS](https://github.com/lovelyyoshino/ROS-ROS2-BOOKS)
 - 轻量化道路裂缝分割算法：[RHACrackNet](https://github.com/lovelyyoshino/RHACrackNet)
@@ -29,18 +36,25 @@
 <img align="right" height="160px" src="https://stats.justsong.cn/api/csdn?id=lovely_yoshino" />
 
 
+## 😎 Skills 😎
+<img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=PyTorch&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/CPP-FF452F?style=flat-square&logo=Mathworks&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/></a>
+<br>
+<img src="https://img.shields.io/badge/SLAM-02569B?style=flat-square&logo=flutter&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/LLM-009688?style=flat-square&logo=FastAPI&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/embodied_AI-F24E1E?style=flat-square&logo=Figma&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/markdown-000000?style=flat-square&logo=Markdown&logoColor=white"/></a>
 
-<!--
-**lovelyyoshino/lovelyyoshino** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## 🦄 My G🐧t Animal Farm 🦄
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<a href="https://github.com/devxb/gitanimals">
+<img
+  src="https://render.gitanimals.org/farms/lovelyyoshino"
+  width="600"
+  height="300"
+/>
+</a>
+</div>
