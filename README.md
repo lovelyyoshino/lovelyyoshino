@@ -29,18 +29,18 @@
 ---
 
 <div align="left">
-<img height="160px" src="https://github-readme-stats.vercel.app/api?username=lovelyyoshino&show_icons=true&theme=dracula" />
+<img height="150px" src="https://github-readme-stats.vercel.app/api?username=lovelyyoshino&show_icons=true&theme=dracula" />
 </div>
 <div align="right">
-<img height="160px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lovelyyoshino&show_icons=true&layout=compact&theme=dracula"/>
+<img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lovelyyoshino&show_icons=true&layout=compact&theme=dracula"/>
 </div>
 
 <div align="left">
-<img height="160px" src="https://github-profile-trophy.vercel.app/?username=lovelyyoshino&theme=flat&column=7" alt="logo" style="margin: auto; margin-bottom: 22px;" />
+<img height="150px" src="https://github-profile-trophy.vercel.app/?username=lovelyyoshino&theme=flat&column=7" alt="logo" style="margin: auto; margin-bottom: 22px;" />
 </div>
 
 <div align="right">
-<img height="160px" src="https://stats.justsong.cn/api/csdn?id=lovely_yoshino" />
+<img height="150px" src="https://stats.justsong.cn/api/csdn?id=lovely_yoshino" />
 </div>
 
 ---
