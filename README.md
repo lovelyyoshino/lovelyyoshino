@@ -37,8 +37,8 @@
 
 <div align="center" style="margin-bottom: 20px;">
  <div style="display: flex; justify-content: space-around; margin-bottom: 20px;">
-<img height="160px" src="https://github-profile-trophy.vercel.app/?username=lovelyyoshino&theme=flat&column=7" alt="logo" style="margin: auto;" />
- <img height="160px" src="https://stats.justsong.cn/api/csdn?id=lovely_yoshino" />
+<img height="140px" src="https://github-profile-trophy.vercel.app/?username=lovelyyoshino&theme=flat&column=7" alt="logo" style="margin: auto;" />
+ <img height="140px" src="https://stats.justsong.cn/api/csdn?id=lovely_yoshino" />
 </div>
 </div>
 
@@ -60,7 +60,7 @@
 
 ---
 
-##  My  Github Animal Farm 
+##  🐧 My  Github Animal Farm 
 
 <a href="https://github.com/devxb/gitanimals">
 <img src="https://render.gitanimals.org/farms/lovelyyoshino" width="600" height="300"/>
