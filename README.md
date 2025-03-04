@@ -1,6 +1,5 @@
 ### Hello, I'm Ma Peili 👋  ｜ 🏠个人博客：[敢敢のwings](https://blog.csdn.net/lovely_yoshino?spm=1010.2135.3001.5343)
 
-<div align="center">
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=FFB6C1&fontColor=FFFFFF&height=300&section=header&text=lovely_yoshino&fontSize=90)
 
@@ -37,6 +36,8 @@
 
 
 ## 😎 Skills 😎
+
+<div align="center">
 <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=PyTorch&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/CPP-FF452F?style=flat-square&logo=Mathworks&logoColor=white"/></a>
