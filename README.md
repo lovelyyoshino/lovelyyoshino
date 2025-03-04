@@ -35,7 +35,7 @@
 <img height="160px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lovelyyoshino&show_icons=true&layout=compact&theme=dracula"/>
 </div>
 
-<div align="center">
+<div align="left">
 <img height="160px" src="https://github-profile-trophy.vercel.app/?username=lovelyyoshino&theme=flat&column=7" alt="logo" style="margin: auto; margin-bottom: 22px;" />
 </div>
 
