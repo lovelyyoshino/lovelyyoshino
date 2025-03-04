@@ -29,19 +29,19 @@
 ---
 
 <div align="center">
-<div style="display: flex; justify-content: space-around;">
+<div style="display: flex; justify-content: space-around; margin-bottom: 20px;">
 <img height="160px" src="https://github-readme-stats.vercel.app/api?username=lovelyyoshino&show_icons=true&theme=dracula" />
 <img height="160px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lovelyyoshino&show_icons=true&layout=compact&theme=dracula"/>
 </div>
 </div>
 
-<div align="center">
-<img height="160px" src="https://github-profile-trophy.vercel.app/?username=lovelyyoshino&theme=flat&column=7" alt="logo" style="margin: auto; margin-bottom: 22px;" />
+<div align="center" style="margin-bottom: 20px;">
+ <div style="display: flex; justify-content: space-around; margin-bottom: 20px;">
+<img height="160px" src="https://github-profile-trophy.vercel.app/?username=lovelyyoshino&theme=flat&column=7" alt="logo" style="margin: auto;" />
+ <img height="160px" src="https://stats.justsong.cn/api/csdn?id=lovely_yoshino" />
+</div>
 </div>
 
-<div align="right">
-<img height="160px" src="https://stats.justsong.cn/api/csdn?id=lovely_yoshino" />
-</div>
 ---
 
 ## 😎 Skills
